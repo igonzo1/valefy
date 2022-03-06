@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @igonzo1
+- 👋 Hi, I’m @valefy
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning JS, CSS, HTML, MySQL, NODE.js
 - 📫 You could leave me here on GitHub a private message
